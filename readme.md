@@ -6,4 +6,4 @@ Old = Before Merge/August 2020
 New = After August 2020
 
 
-Thank you to our artists for making nice logos :) (Devnol, Derser and Rexo)
+Thank you to our artists for making nice logos :) (Devnol, Derser and Rexogamer)
